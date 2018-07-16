@@ -1,0 +1,1 @@
+__tmux_gitbar_update
